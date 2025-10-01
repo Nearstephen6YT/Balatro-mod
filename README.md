@@ -1,10 +1,5 @@
 # Balatro-mod  
+W.I.P. - No jokers made yet
 
 
-1 Joker with no code currently in the mod.
-
-    
-Jokers coming soon.  
-
-  
-Version 1.1~beta
+Version 0.1~beta
